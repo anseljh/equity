@@ -2,7 +2,7 @@
 
 *[Date]*
 
-The following is a summary of the principal terms with respect to the proposed Seed Preferred Stock financing of *[___________]*, Inc., a *[Delaware]* corporation (the “Company”).  Except for the section entitled “Binding Terms,” such summary of terms does not constitute a legally binding obligation.  Any other legally binding obligation will only be made pursuant to definitive agreements to be negotiated and executed by the parties.
+This is a summary of the principal terms of the proposed Seed Preferred Stock financing of *[___________]*, Inc., which is a *[Delaware]* corporation (the “Company”).  Except for the “Binding Terms” section, this summary is not a legally binding contractual obligation. Any other legally binding obligation will only be made pursuant to definitive agreements, which are still to be negotiated and executed by the parties.
 
 ## Offering Terms  
 
@@ -44,7 +44,7 @@ Purchasers who have invested at least *[$________]* (“Major Purchasers”) wil
 
 ### Participation Right:	
 
-Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
+Major Purchasers will have the right to participate on a proportional basis in subsequent issuances of equity securities.
 
 ### Board of Directors:	
 
