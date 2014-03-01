@@ -15,7 +15,7 @@ General Corporation Law of the State of Delaware)
 
 3. Exhibit A referred to above is attached hereto as Exhibit A and is hereby incorporated herein by this reference.  This Restated Certificate of Incorporation was approved by the holders of the requisite number of shares of this corporation in accordance with Section 228 of the General Corporation Law. 
 
-4.  This Restated Certificate of Incorporation, which restates and integrates and further amends the provisions of this corporation’s Certificate of Incorporation, has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law. 
+4.  This Restated Certificate of Incorporation, which restates and integrates and further amends the provisions of this corporation's Certificate of Incorporation, has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law. 
 
 IN WITNESS WHEREOF, this Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this [DAY day of MONTH, YEAR].
 
